@@ -5,42 +5,44 @@
 Analysis of agricultural performance across Kharif, Rabi and Zaid seasons using Python and data visualization.
 
 # Objectives
-Clean and prepare the dataset
-Analyse seasonal performance
-Study crop yield, production and profit
-Analyse environmental conditions
-Study irrigation and water usage
-Analyse farming inputs and disease/pest risk
-Compare regional performance
-Identify patterns and relationships
-Provide recommendations
-Analysis Performed
-Dataset loading and exploration
-Top 5 rows, shape, structure and data types
-Missing value and duplicate handling
-Descriptive/statistical analysis
-Outlier analysis using IQR
-Univariate analysis
-Bivariate analysis
-Multivariate analysis
-Correlation analysis
-Seasonal and crop comparisons
-Irrigation and water-efficiency analysis
-Regional analysis
-Key Insights
+-Clean and prepare the dataset
+-Analyse seasonal performance
+-Study crop yield, production and profit
+-Analyse environmental conditions
+-Study irrigation and water usage
+-Analyse farming inputs and disease/pest risk
+-Compare regional performance
+-Identify patterns and relationships
+-Provide recommendations
+-Analysis Performed
+-Dataset loading and exploration
+-Top 5 rows, shape, structure and data types
+-Missing value and duplicate handling
+-Descriptive/statistical analysis
+-Outlier analysis using IQR
+-Univariate analysis
+-Bivariate analysis
+-Multivariate analysis
+-Correlation analysis
+-Seasonal and crop comparisons
+-Irrigation and water-efficiency analysis
+-Regional analysis
+
+# Key Insights
 
 The analysis identifies:
 
-Best-performing season
-Highest-yielding crop
-Most profitable crop
-Best crop-season combination
-Environmental differences between seasons
-Irrigation and water-use patterns
-Relationships between inputs and yield
-Disease/pest risk patterns
-Regional differences
-Recommendations
+-Best-performing season
+-Highest-yielding crop
+-Most profitable crop
+-Best crop-season combination
+-Environmental differences between seasons
+-Irrigation and water-use patterns
+-Relationships between inputs and yield
+-Disease/pest risk patterns
+-Regional differences
+
+# Recommendations
 
 Recommendations are based on the analysis of yield, profitability, resources, environmental conditions and seasonal performance.
 
