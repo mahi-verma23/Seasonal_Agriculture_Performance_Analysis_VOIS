@@ -4,7 +4,7 @@
 
 Analysis of agricultural performance across Kharif, Rabi and Zaid seasons using Python and data visualization.
 
-## Objectives
+# Objectives
 -Clean and prepare the dataset
 -Analyse seasonal performance
 -Study crop yield, production and profit
